@@ -20,4 +20,14 @@ public class OrderServiceImpl implements IOrderService {
         }
         return 1;
     }
+
+    public static void main(String[] args) {
+        int i = Integer.MAX_VALUE + 1;
+        System.out.println(i);
+        System.out.println(i - 2);
+        System.out.println(7 >> 6);
+        System.out.println(128 >> 6);
+        System.out.println(32 >> 6);
+        System.out.println(63 >> 6);
+    }
 }
