@@ -12,7 +12,6 @@
         <module>rxjava</module>
         <module>hystrix</module>
         <module>ttl</module>
-        <module>lucence</module>
     </modules>
 
     <name>hr</name>
