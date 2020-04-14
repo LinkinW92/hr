@@ -108,23 +108,15 @@
       <artifactId>mybatis-spring-boot-starter</artifactId>
       <version>2.0.1</version>
     </dependency>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.9</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-    <dependency>
-      <groupId>org.apache.poi</groupId>
-      <artifactId>poi</artifactId>
-      <version>4.1.2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.9</version>
-      <scope>compile</scope>
-    </dependency>
+      <dependency>
+          <groupId>org.apache.poi</groupId>
+          <artifactId>poi</artifactId>
+          <version>3.16</version>
+          <scope>compile</scope>
+      </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+
 
   </dependencies>
 
