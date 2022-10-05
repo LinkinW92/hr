@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <elastic.search.version>7.1.0</elastic.search.version>
+    <elastic.search.version>7.14.0</elastic.search.version>
   </properties>
 
   <parent>
